@@ -1,0 +1,6 @@
+print('Hi', end=" ")
+print('Hey')
+print('Her')
+print(1782)
+print(True)
+print(105+85)
